@@ -9,6 +9,6 @@
 ### Summary
 A brief summary of the assignment goes here. Include the main objectives, key concepts, and any important information relevant to the task.
 
-### Documentation
-You can find detailed documentation for this assignment in the [docs/assignment.txt](docs/assignment.txt) file. Below is a preview:
+### Assignment Information
+You can find the project brief for this assignment in the [briefing](docs/assignment.pdf) file. Below is a preview:
 
