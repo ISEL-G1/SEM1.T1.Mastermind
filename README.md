@@ -1,4 +1,4 @@
-<div style="text-align: center;">
+<div style="display: flex; justify-content: center;align-items: center">
     <img src="https://www.isel.pt/sites/default/files/001_imagens_isel/Logotipos/logo_ISEL_principal_RGB_PNG.png"
          alt="ISEL Logo" style="display: inline-block; width: 150px;">
 </div>
