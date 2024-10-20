@@ -4,11 +4,34 @@
 
 
 
-## Assignment Title
+## Mastermind
 
 ### Summary
-A brief summary of the assignment goes here. Include the main objectives, key concepts, and any important information relevant to the task.
+> Pretende-se desenvolver um programa para jogar ao MasterMind usando símbolos (letras ou dígitos) em vez dos
+pinos coloridos.
+Inicialmente, o programa gera aleatoriamente um código secreto sem repetições, depois vai respondendo a cada
+tentativa introduzida pelo utilizador, indicando quantos símbolos estão corretos (C - cor certa na posição certa) e
+quantos estão trocados (T - cor certa na posição errada), até que o utilizador adivinhe o código ou esgote o
+máximo de tentativas.
 
-### Assignment Information
-You can find the project brief for this assignment in the [briefing](docs/assignment.pdf) file. Below is a preview:
+---
+
+### Scheduling
+
+| Milestone               | Date |
+|--------------------------|---------|
+| Project Proposal                 |  17/10/2024              
+| Deadline       |  21/10/2024          
+
+
+---
+
+### Requirements
+To build this project you will need:
+- A [Kotlin compiler](https://kotlinlang.org/docs/command-line.html)
+- [JDK 22](https://www.oracle.com/java/technologies/javase/jdk22-archive-downloads.html)
+
+<br>
+
+###### You can find the project brief for this assignment in the [briefing](docs/assignment.pdf) file.
 
