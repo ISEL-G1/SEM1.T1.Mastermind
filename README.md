@@ -1,7 +1,7 @@
-<div style="display: flex; justify-content: center;align-items: center; width: 100%">
-    <img src="https://www.isel.pt/sites/default/files/SCI/Identidade/logo_ISEL_simplificado_cor.png"
-         alt="ISEL Logo">
-</div>
+<p align="center">
+  <img src="https://www.isel.pt/sites/default/files/001_imagens_isel/Logotipos/logo_ISEL_principal_RGB_PNG.png" alt="ISEL Logo" width="70%">
+</p>
+
 
 
 ## Assignment Title
