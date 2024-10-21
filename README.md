@@ -13,6 +13,8 @@ Inicialmente, o programa gera aleatoriamente um código secreto sem repetições
 tentativa introduzida pelo utilizador, indicando quantos símbolos estão corretos (C - cor certa na posição certa) e
 quantos estão trocados (T - cor certa na posição errada), até que o utilizador adivinhe o código ou esgote o
 máximo de tentativas.
+###### You can find the project brief for this assignment in the [briefing](docs/assignment.pdf) file.
+
 
 ---
 
@@ -29,6 +31,4 @@ máximo de tentativas.
 | Alexandre Silva    | alexandresilva.coding@gmail.com     |
 | Daniel Viegas      | viegasdaniel111@gmail.com       |
 | Duarte Rodrigues   | duarte.afonso.rodrigues@gmail.com    |
-
-###### You can find the project brief for this assignment in the [briefing](docs/assignment.pdf) file.
 
