@@ -16,16 +16,6 @@ máximo de tentativas.
 
 ---
 
-### Schedule
-
-| Milestone               | Date |
-|--------------------------|---------|
-| Project Proposal                 |  17/10/2024              
-| Deadline       |  21/10/2024          
-
-
----
-
 ### Requirements
 To build this project you will need:
 - A [Kotlin compiler](https://kotlinlang.org/docs/command-line.html)
