@@ -16,7 +16,7 @@ máximo de tentativas.
 
 ---
 
-### Scheduling
+### Schedule
 
 | Milestone               | Date |
 |--------------------------|---------|
