@@ -16,10 +16,20 @@ máximo de tentativas.
 
 ---
 
-### Requirements
-To build this project you will need:
-- A [Kotlin compiler](https://kotlinlang.org/docs/command-line.html)
-- [JDK 22](https://www.oracle.com/java/technologies/javase/jdk22-archive-downloads.html)
+### **Requirements**
+- **Kotlin Compiler**: [Kotlin documentation](https://kotlinlang.org/docs/command-line.html)
+- **JDK 22**: [Download here](https://www.oracle.com/java/technologies/javase/jdk22-archive-downloads.html)
+- Any additional software required.
+
+---
+
+### Contacts
+
+| Contributor        | Email                      |
+|--------------------|----------------------------|
+| Alexandre Silva    | alexandresilva.coding@gmail.com     |
+| Daniel Viegas      | viegasdaniel111@gmail.com       |
+| Duarte Rodrigues   | duarte.afonso.rodrigues@gmail.com    |
 
 <br>
 
