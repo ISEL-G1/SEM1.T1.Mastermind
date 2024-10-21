@@ -17,7 +17,7 @@ const val FIRST_COLOR = 'A' // ‘A’ or ‘a’ or ‘0’
 val COLORS = FIRST_COLOR ..< FIRST_COLOR + SIZE_COLORS
 
 /**
- * Main program entrypoint; Asks for
+ * Main program entrypoint;
  */
 fun main()	{
     val secret: String = generateSecret()
