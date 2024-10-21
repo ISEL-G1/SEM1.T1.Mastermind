@@ -30,7 +30,5 @@ máximo de tentativas.
 | Daniel Viegas      | viegasdaniel111@gmail.com       |
 | Duarte Rodrigues   | duarte.afonso.rodrigues@gmail.com    |
 
-<br>
-
 ###### You can find the project brief for this assignment in the [briefing](docs/assignment.pdf) file.
 
