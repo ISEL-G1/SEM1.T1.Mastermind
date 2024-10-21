@@ -19,7 +19,6 @@ máximo de tentativas.
 ### **Requirements**
 - **Kotlin Compiler**: [Download here](https://kotlinlang.org/docs/command-line.html)
 - **JDK 22**: [Download here](https://www.oracle.com/java/technologies/javase/jdk22-archive-downloads.html)
-- Any additional software required.
 
 ---
 
