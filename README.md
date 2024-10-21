@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.isel.pt/sites/default/files/001_imagens_isel/Logotipos/logo_ISEL_principal_RGB_PNG.png" alt="ISEL Logo" width="70%">
+  <img src="https://www.isel.pt/sites/default/files/001_imagens_isel/Logotipos/logo_ISEL_principal_Branco.png" alt="ISEL Logo" width="70%">
 </p>
 
 
